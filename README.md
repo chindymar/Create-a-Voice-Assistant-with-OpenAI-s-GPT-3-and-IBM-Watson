@@ -2,7 +2,7 @@
 
 #### Author : Cognitive Class AI
 
-Mentee assigment from IBM Advance AI @ Infinite Learning Course Create Your Own Chatbot Website with Open Source LLMs from CognitiveClass.ai
+Mentee assigment from IBM Advance AI @ Infinite Learning Course Create a Voice Assistant with OpenAIs GPT 3 and IBM Watson from CognitiveClass.ai
 
 ## 👋 Mentee Info
  • Name    : Cindy Mar Shelinda
